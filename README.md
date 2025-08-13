@@ -26,8 +26,12 @@ Personal Finance Tracker is a full-stack web application designed to simplify ex
 ## My Streamlit App
 
 <img width="933" height="712" alt="image" src="https://github.com/user-attachments/assets/3d1ee873-b95c-449f-a0d4-3aa1b31d46ed" />
-******************************************************************************************************************************************************************************************************************
-## 🎥 Demo Video
+
+***************************************************************************************************************************************************************************************
+## A Demo Video
+
+<video src="https://github.com/Sahajahanur/Expense-Tracking-system-using-Python/blob/main/EXPENSE_TRACKING.mp4?raw=true" controls width="800"></video>
+
 
 
 
