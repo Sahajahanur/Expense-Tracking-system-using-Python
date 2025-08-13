@@ -30,7 +30,7 @@ Personal Finance Tracker is a full-stack web application designed to simplify ex
 ***************************************************************************************************************************************************************************************
 ## A Demo Video
 
-<video src="https://github.com/Sahajahanur/Expense-Tracking-system-using-Python/blob/main/EXPENSE_TRACKING.mp4?raw=true" controls width="800"></video>
+[![Watch the video](https://img.youtube.com/vi/71J7QsYBJ4I/0.jpg)](https://youtu.be/71J7QsYBJ4I)
 
 
 
