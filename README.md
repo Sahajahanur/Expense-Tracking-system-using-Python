@@ -16,13 +16,6 @@ Personal Finance Tracker is a full-stack web application designed to simplify ex
 <img width="1195" height="802" alt="image" src="https://github.com/user-attachments/assets/db6caadb-9913-43c9-a47c-6fb3c73ff93d" />
 
 *******************************************************************************************************************************************************************************************************************
-## Project Structure
-* frontend/: Contains the Streamlit application code.
-* backend/: Contains the FastAPI backend server code.
-* tests/: Contains the test cases for both frontend and backend.
-* requirements.txt: Lists the required Python packages.
-* README.md: Provides an overview and instructions for the project.
-******************************************************************************************************************************************************************************************************************
 ## My Streamlit App
 
 <img width="933" height="712" alt="image" src="https://github.com/user-attachments/assets/3d1ee873-b95c-449f-a0d4-3aa1b31d46ed" />
