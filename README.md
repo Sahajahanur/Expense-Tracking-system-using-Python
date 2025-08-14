@@ -88,7 +88,11 @@ Visit
 * Testing: Validates backend functions with Pytest.
 ****************************************************************************************************************************************************************************************************************************
 ## Contributing
-To Contribute, Please submit issues or pull requests for enhancements or fixes.
+To contribute, please submit issues or pull requests for enhancements or fixes.
+************************************************************************************************************************************************************************************************************************
+📧 [Email Me](mailto:connectingsrl@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/sahajahanur-laskar/)
+
 
 
 
